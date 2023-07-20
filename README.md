@@ -1,4 +1,4 @@
-# DDI_Tare9_200327
+# DDI_Tare9_200448
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Eliel Díaz Galindo 
+## Gabriel Guzmán Garcia 
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
